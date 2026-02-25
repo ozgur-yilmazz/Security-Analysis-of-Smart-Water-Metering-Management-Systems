@@ -1,0 +1,2 @@
+# Security-Analysis-of-Smart-Water-Metering-Management-Systems
+Conducted a security assessment of a Smart Water Metering Management System using STRIDE and DREAD. Identified and prioritized threats across IoT gateways, smart meters, backend, cloud, and APIs. Designed mitigations (TLS/AES-256, RBAC, secure APIs, IDS). Used locally deployed LLaMA 2–13B (Ollama) for structured threat analysis and validation.
